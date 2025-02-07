@@ -1,0 +1,1 @@
+# ai-application-apartment-prediction
